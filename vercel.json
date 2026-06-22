@@ -2,5 +2,5 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "cd \"Forex ProPath\" && npm install",
   "buildCommand": "cd \"Forex ProPath\" && npm run build",
-  "framework": "tanstack-start"
+  "framework": null
 }
